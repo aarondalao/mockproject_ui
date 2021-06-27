@@ -37,20 +37,26 @@ I want the visitors to have the ability to contact our store, display our contac
 
 https://wireframe.cc/pro/pp/d9aadc4c8453406
 
-### Homepage
+### Homepage wireframe
+---
 ![homepage](./images/1-homepage.png)
 
-### Cameras
+### Cameras wireframe
+---
 ![cameras](./images/2-cameras.png)
 
-### Camera
+### Camera wireframe
+---
 ![camera](./images/3-camera.png)
 
-### Blog
+### Blog wireframe
+---
 ![blog](./images/4-blog.png)
 
-### Post
+### Post wireframe
+---
 ![post](./images/5-post.png)
 
-### Contact
+### Contact wireframe
+---
 ![contact](./images/6-contact.png)
